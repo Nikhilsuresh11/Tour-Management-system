@@ -1,2 +1,1 @@
-# Tour-Management-system
-using Rshiny and SQL
+# rshiny-tour-management-system
